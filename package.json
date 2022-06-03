@@ -19,7 +19,7 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "@angular/core": "4.x",
+    "@angular/core": "11.x",
     "@angular/compiler": "4.x",
     "@angular/compiler-cli": "4.x",
     "gulp": "^3.9.1",
